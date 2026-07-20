@@ -3,7 +3,6 @@
 A beginner-friendly Computer Vision project that detects objects in images
 using a pre-trained **MobileNet-SSD** model and **Transfer Learning** —
 built as Project 4 of an AI Industrial Training Program.
-
 ---
 
 ## Project Overview
